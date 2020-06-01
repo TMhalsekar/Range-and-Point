@@ -1,2 +1,3 @@
 # Range-and-Point
-Performing range and point query on partitioned data
+Performing range and point query on partitioned data in python
+
